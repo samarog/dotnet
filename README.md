@@ -1,5 +1,7 @@
 # .NET / C# MVC Demo Projects:
 
-> SmartGast: Smart expenditure tracker built with ASP.NET MVC
+> <strong>HelloWord</strong>: A foundational C# study about OOP, classes and inheritance
 
-> BattleGame: Logic-driven battle simulation written in C#
+> <strong>SmartGast</strong>: Smart expenditure tracker built with ASP.NET MVC
+
+> <strong>BattleGame</strong>: Logic-driven battle simulation written in C#
