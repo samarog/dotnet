@@ -1,4 +1,4 @@
-# dotnet/C# MVC projects:
+# dotnet/C# MVC demo-projects:
 
 >> SmartGast
 >> BattleGame
