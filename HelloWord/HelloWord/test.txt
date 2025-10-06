@@ -1,0 +1,3 @@
+Hello, World! This is a test file.
+This file is used to demonstrate file writing and reading in C#.
+Have a great day!
