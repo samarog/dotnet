@@ -1,4 +1,5 @@
-# dotnet/C# MVC demo-projects:
+# .NET / C# MVC Demo Projects:
 
->> SmartGast
->> BattleGame
+> SmartGast: Smart expenditure tracker built with ASP.NET MVC
+
+> BattleGame: Logic-driven battle simulation written in C#
