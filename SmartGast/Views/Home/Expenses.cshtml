@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Expenses";
+}
+
+@model List<Expense>
+
+<div class="text-center">
+    <h1 class="display-4">Expenses</h1>
+    <p>Your current total expenditure is:</p>
+    <div class="d-block">
+    <h3 class="w-auto text-dark">Total: €@ViewBag.TotalExpenses</h3>
+        @{
+            if (ViewBag.TotalExpenses > 500)
+            {
+                <h5 class="badge bg-danger d-inline-block w-auto">High expenses!</h5>
+
+            }
+            else if (ViewBag.TotalExpenses > 300)
+            {
+                <h5 class="badge w-auto text-dark bg-warning">You might want to review your expenditure</h5>
+            }
+            else
+            {
+                <h5 class="badge w-auto bg-success">Expenses are under control</h5>
+            }
+        }
+    </div>
+    <hr />
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th hidden>
+                    Id
+                </th>
+                <th>
+                    Value
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Actions
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var expense in Model)
+                {
+                    <tr>
+                        <td hidden>
+                            @expense.Id
+                        </td>
+                        <td class="align-middle">
+                           €@expense.Value
+                        </td>
+                        <td class="align-middle">
+                            @expense.Description
+                        </td>
+                        <td class="align-middle">
+                            <a asp-action="CreateOrEditAnExpense" asp-route-id="@expense.Id" class="btn btn-primary">Edit</a>
+                            <a asp-action="DeleteExpense" asp-route-id="@expense.Id" class="btn btn-outline-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+
+    <br />
+    <a class="btn btn-outline-secondary mb-3" asp-controller="Home" asp-action="CreateOrEditAnExpense">Create New</a>
+
+</div>

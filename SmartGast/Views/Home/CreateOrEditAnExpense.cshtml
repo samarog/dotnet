@@ -1,0 +1,35 @@
+﻿@model SmartGast.Models.Expense
+
+@{
+    ViewData["Title"] = "Create / Edit ";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Create or Edit an Expense</h1>
+    <p>State your expenses here:</p>
+    <hr />
+
+    <div class="row g-4">
+        <form class="col-lg-4" asp-action="ExpenseSubmitted" asp-asp-controller="Home">
+            <div hidden class="input-group mb-3">
+                <span class="input-group-text">ID</span>
+                <input type="number" class="form-control" id="id" name="id" placeholder="0" asp-for="Id">
+            </div>
+
+            <div class="input-group mb-3">
+                <span class="input-group-text">Price (€)</span>
+                <input type="number" step="0.01" class="form-control" id="value" name="value" placeholder="0" asp-for="Value">
+            </div>
+
+            <div class="input-group mb-3">
+                <span class="input-group-text">Expense</span>
+                <input type="text" class="form-control" id="description" name="description" placeholder="Add a description or product name" asp-for="Description">
+            </div>
+            <div class="d-flex justify-content-start gap-3">
+            <button type="submit" class="btn btn-dark">Add</button>
+            <button type="reset" class="btn btn-outline-danger">Clear</button>
+            </div>
+        </form>
+    </div>
+
+</div>
