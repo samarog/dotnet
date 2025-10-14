@@ -1,0 +1,11 @@
+C:\Users\goncalo.amaro\source\repos\Bankia\Bankia.Domain\bin\Debug\net9.0\Bankia.Domain.deps.json
+C:\Users\goncalo.amaro\source\repos\Bankia\Bankia.Domain\bin\Debug\net9.0\Bankia.Domain.dll
+C:\Users\goncalo.amaro\source\repos\Bankia\Bankia.Domain\bin\Debug\net9.0\Bankia.Domain.pdb
+C:\Users\goncalo.amaro\source\repos\Bankia\Bankia.Domain\obj\Debug\net9.0\Bankia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goncalo.amaro\source\repos\Bankia\Bankia.Domain\obj\Debug\net9.0\Bankia.Domain.AssemblyInfoInputs.cache
+C:\Users\goncalo.amaro\source\repos\Bankia\Bankia.Domain\obj\Debug\net9.0\Bankia.Domain.AssemblyInfo.cs
+C:\Users\goncalo.amaro\source\repos\Bankia\Bankia.Domain\obj\Debug\net9.0\Bankia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\goncalo.amaro\source\repos\Bankia\Bankia.Domain\obj\Debug\net9.0\Bankia.Domain.dll
+C:\Users\goncalo.amaro\source\repos\Bankia\Bankia.Domain\obj\Debug\net9.0\refint\Bankia.Domain.dll
+C:\Users\goncalo.amaro\source\repos\Bankia\Bankia.Domain\obj\Debug\net9.0\Bankia.Domain.pdb
+C:\Users\goncalo.amaro\source\repos\Bankia\Bankia.Domain\obj\Debug\net9.0\ref\Bankia.Domain.dll
