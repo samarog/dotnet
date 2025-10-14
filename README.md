@@ -5,3 +5,5 @@
 > <strong>SmartGast</strong>: Smart expenditure tracker built with ASP.NET MVC
 
 > <strong>BattleGame</strong>: Logic-driven battle simulation written in C#
+
+> <strong>GuessNum/GuessNum2</strong>: 50-line C# guessing game later refactored into modular structure
