@@ -1,0 +1,28 @@
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\bin\Debug\net9.0\GuessNum.exe
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\bin\Debug\net9.0\GuessNum.deps.json
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\bin\Debug\net9.0\GuessNum.runtimeconfig.json
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\bin\Debug\net9.0\GuessNum.dll
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\bin\Debug\net9.0\GuessNum.pdb
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\obj\Debug\net9.0\GuessNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\obj\Debug\net9.0\GuessNum.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\obj\Debug\net9.0\GuessNum.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\obj\Debug\net9.0\GuessNum.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\obj\Debug\net9.0\GuessNum.dll
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\obj\Debug\net9.0\refint\GuessNum.dll
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\obj\Debug\net9.0\GuessNum.pdb
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\obj\Debug\net9.0\GuessNum.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\DEV\C#\GuessNum\obj\Debug\net9.0\ref\GuessNum.dll
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\bin\Debug\net9.0\GuessNum.exe
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\bin\Debug\net9.0\GuessNum.deps.json
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\bin\Debug\net9.0\GuessNum.runtimeconfig.json
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\bin\Debug\net9.0\GuessNum.dll
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\bin\Debug\net9.0\GuessNum.pdb
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\obj\Debug\net9.0\GuessNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\obj\Debug\net9.0\GuessNum.AssemblyInfoInputs.cache
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\obj\Debug\net9.0\GuessNum.AssemblyInfo.cs
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\obj\Debug\net9.0\GuessNum.csproj.CoreCompileInputs.cache
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\obj\Debug\net9.0\GuessNum.dll
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\obj\Debug\net9.0\refint\GuessNum.dll
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\obj\Debug\net9.0\GuessNum.pdb
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\obj\Debug\net9.0\GuessNum.genruntimeconfig.cache
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum\obj\Debug\net9.0\ref\GuessNum.dll

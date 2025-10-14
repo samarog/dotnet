@@ -1,0 +1,28 @@
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\bin\Debug\net9.0\GuessNum2.exe
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\bin\Debug\net9.0\GuessNum2.deps.json
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\bin\Debug\net9.0\GuessNum2.runtimeconfig.json
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\bin\Debug\net9.0\GuessNum2.dll
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\bin\Debug\net9.0\GuessNum2.pdb
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\obj\Debug\net9.0\GuessNum2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\obj\Debug\net9.0\GuessNum2.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\obj\Debug\net9.0\GuessNum2.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\obj\Debug\net9.0\GuessNum2.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\obj\Debug\net9.0\GuessNum2.dll
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\obj\Debug\net9.0\refint\GuessNum2.dll
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\obj\Debug\net9.0\GuessNum2.pdb
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\obj\Debug\net9.0\GuessNum2.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\DEV\C#\50 Liner Games\GuessNum2\obj\Debug\net9.0\ref\GuessNum2.dll
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\bin\Debug\net9.0\GuessNum2.exe
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\bin\Debug\net9.0\GuessNum2.deps.json
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\bin\Debug\net9.0\GuessNum2.runtimeconfig.json
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\bin\Debug\net9.0\GuessNum2.dll
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\bin\Debug\net9.0\GuessNum2.pdb
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\obj\Debug\net9.0\GuessNum2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\obj\Debug\net9.0\GuessNum2.AssemblyInfoInputs.cache
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\obj\Debug\net9.0\GuessNum2.AssemblyInfo.cs
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\obj\Debug\net9.0\GuessNum2.csproj.CoreCompileInputs.cache
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\obj\Debug\net9.0\GuessNum2.dll
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\obj\Debug\net9.0\refint\GuessNum2.dll
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\obj\Debug\net9.0\GuessNum2.pdb
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\obj\Debug\net9.0\GuessNum2.genruntimeconfig.cache
+C:\Users\goncalo.amaro\Projetos\c#\50 Liner Games\GuessNum2 (Refactored)\obj\Debug\net9.0\ref\GuessNum2.dll
