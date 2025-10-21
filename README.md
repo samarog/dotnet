@@ -6,7 +6,10 @@
 
 > <strong>BattleGame</strong>: Logic-driven battle simulation written in C#
 
+> <strong>CarSim</strong>: Plain logic/object manipulation exercise of driving simulation.
+
 > <strong>GuessNum/GuessNum2</strong>: 50-line C# guessing game later refactored into modular structure
 
 > <strong>Bankia</strong>: Multi-channel solution bank app with xUnit testing
+
 
