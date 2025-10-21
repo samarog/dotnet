@@ -1,0 +1,14 @@
+C:\Users\goncalo.amaro\source\repos\CarSim\obj\Debug\net9.0\CarSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goncalo.amaro\source\repos\CarSim\obj\Debug\net9.0\CarSim.AssemblyInfoInputs.cache
+C:\Users\goncalo.amaro\source\repos\CarSim\obj\Debug\net9.0\CarSim.AssemblyInfo.cs
+C:\Users\goncalo.amaro\source\repos\CarSim\obj\Debug\net9.0\CarSim.csproj.CoreCompileInputs.cache
+C:\Users\goncalo.amaro\source\repos\CarSim\bin\Debug\net9.0\CarSim.exe
+C:\Users\goncalo.amaro\source\repos\CarSim\bin\Debug\net9.0\CarSim.deps.json
+C:\Users\goncalo.amaro\source\repos\CarSim\bin\Debug\net9.0\CarSim.runtimeconfig.json
+C:\Users\goncalo.amaro\source\repos\CarSim\bin\Debug\net9.0\CarSim.dll
+C:\Users\goncalo.amaro\source\repos\CarSim\bin\Debug\net9.0\CarSim.pdb
+C:\Users\goncalo.amaro\source\repos\CarSim\obj\Debug\net9.0\CarSim.dll
+C:\Users\goncalo.amaro\source\repos\CarSim\obj\Debug\net9.0\refint\CarSim.dll
+C:\Users\goncalo.amaro\source\repos\CarSim\obj\Debug\net9.0\CarSim.pdb
+C:\Users\goncalo.amaro\source\repos\CarSim\obj\Debug\net9.0\CarSim.genruntimeconfig.cache
+C:\Users\goncalo.amaro\source\repos\CarSim\obj\Debug\net9.0\ref\CarSim.dll
